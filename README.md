@@ -1,44 +1,13 @@
-Skewed Student distribution of Hansen (1994) [1].
-
-R implementation.
-
-Documentation
-Documentation.
-
-Installation
-pip install git+git://github.com/khrapovs/skewstudent
-References
-[1]	Hansen, B. E. (1994). Autoregressive conditional density estimation. International Economic Review, 35(3), 705–730. <http://www.ssc.wisc.edu/~bhansen/papers/ier_94.pdf>
-
-
-.. image:: https://travis-ci.org/khrapovs/skewstudent.svg?branch=master
-    :target: https://travis-ci.org/khrapovs/skewstudent
-
-.. image:: https://readthedocs.org/projects/skewstudent/badge/?version=latest
-	:target: https://readthedocs.org/projects/skewstudent/?badge=latest
-	:alt: Documentation Status
-
 Skewed Student distribution
 ===========================
 
-Skewed Student distribution of Hansen (1994) [1]_.
+Skewed Student distribution of Hansen (1994) [1].
 
-R implementation by `Andrew Patton's MatLab code <http://public.econ.duke.edu/~ap172/code.html>`_.
+R implementation by Bruno Tebaldi de Queiroz Barbosa.
+based on Andrew Patton's MatLab code <http://public.econ.duke.edu/~ap172/code.html>
 
-Documentation
--------------
-
-`Documentation <http://skewstudent.readthedocs.org/en/latest/>`_.
-
-Installation
-------------
-
-::
-
-	pip install git+git://github.com/khrapovs/skewstudent
 
 References
 ----------
-
-.. [1] Hansen, B. E. (1994). Autoregressive conditional density estimation.
+[1] Hansen, B. E. (1994). Autoregressive conditional density estimation.
     *International Economic Review*, 35(3), 705–730. <http://www.ssc.wisc.edu/~bhansen/papers/ier_94.pdf>
